@@ -28,7 +28,11 @@ curl -fsSL https://ollama.com/install.sh | sh
 uv sync
 ```
 
-**Step - 2:** TO-DO
+**Step - 2:** Pull the model first by running this command
+
+```bash
+ollama pull qwen2.5-coder:7b
+```
 
 ## Docker
 
