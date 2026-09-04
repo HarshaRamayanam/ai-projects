@@ -1,0 +1,13 @@
+[project]
+name = "full-stack-app-generation"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "langchain-ollama>=1.1.0",
+    "langgraph>=1.2.11",
+    "ollama>=0.6.2",
+    "python-dotenv>=1.2.3",
+    "requests>=2.34.2",
+    "rich>=15.0.0",
+    "tqdm>=4.70.0",
+]
