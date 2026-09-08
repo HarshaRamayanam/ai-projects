@@ -3,6 +3,7 @@ name = "full-stack-app-generation"
 version = "0.1.0"
 requires-python = ">=3.14"
 dependencies = [
+    "docker>=7.2.0",
     "langchain-ollama>=1.1.0",
     "langgraph>=1.2.11",
     "ollama>=0.6.2",
